@@ -71,7 +71,7 @@ f. Artificial Neural Network (ANN): Train with hyperparameter tuning (hidden_lay
 
 - Python 3.9+
 - pip
-- pip install requirements.txt
+- pip install -r requirements.txt
 
 ### Installing Dependencies
 
