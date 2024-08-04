@@ -1,0 +1,13 @@
+flask 
+jsonify
+joblib
+angle-emb
+request
+gdown
+pandas
+numpy
+tqdm
+voyageai
+scikit-learn
+tensorflow
+-e .
